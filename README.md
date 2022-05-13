@@ -9,7 +9,7 @@ I am comfortable with the following langauges:
 - Java
 
 
-## Check out our team website, [skilldevs.club](https://skilldevs.club "skilldevs.club")!
+## Check out our team website, [dragonsteam.club](https://dragonsteam.club "dragonsteam.club")!
 
 <div align="center">
 
