@@ -7,6 +7,7 @@ Hello! I'm Joansiitoh, I've been programming for about 3 years on Minecraft and 
 I am comfortable with the following langauges:
 
 - Java
+- MariaDB, Redis.
 
 
 ## Check out our team website, [dragonsteam.club](https://dragonsteam.club "dragonsteam.club")!
