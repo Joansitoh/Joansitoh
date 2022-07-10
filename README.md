@@ -1,6 +1,6 @@
 <h1 align="center">Joansiitoh (SkillTeam)</h1>
 
-Hello! I'm Joansiitoh, I've been programming for about 3 years on Minecraft and other projects.
+Hello! I'm Joansiitoh, I've been programming for about 5 years on Minecraft and other projects.
 
 ## Languages
 
