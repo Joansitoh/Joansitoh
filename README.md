@@ -6,7 +6,7 @@ Hello! I'm Joansiitoh, I've been programming for about 3 years on Minecraft and 
 
 I am comfortable with the following langauges:
 
-- Java
+- Java, CraftBukkit and NMS
 - MariaDB, Redis.
 
 
