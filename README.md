@@ -1,4 +1,4 @@
-<h1 align="center">Joansiitoh (SkillTeam)</h1>
+<h1 align="center">Joansiitoh (VanillaTech)</h1>
 
 Hello! I'm Joansiitoh, I've been programming for about 5 years on Minecraft and other projects.
 
@@ -10,7 +10,7 @@ I am comfortable with the following langauges:
 - MariaDB, Redis.
 
 
-## Check out our team website, [dragonsteam.club](https://dragonsteam.club "dragonsteam.club")!
+## Check out our team website, [vainilla.tech](https://vainilla.tech "vainilla.tech")!
 
 <div align="center">
 
