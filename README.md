@@ -39,3 +39,10 @@ I am comfortable with the following langauges:
 - ⚔ Ascend Network - A Minecraft PvP and Survival Network (ascendmc.us - Head Developer)
 
 ---
+
+### 🥂 Actually projects working:
+- Kirei Network (kirei.gg)
+- AscendMC Network (ascendmc.us)
+- Python server automatitation
+
+---
