@@ -60,7 +60,6 @@ I am comfortable with the following langauges:
 - 📧 Discord: joansiitoh#9303
 ---
 
----
 ### 📚 History worked projects:
 - ⚔ SnowCrash Network - A Minecraft PvP Network based on Annihilation (snowcrash.us - Head Developer)
 - ⚔ Annihilate - A Minecraft PvP Network based on Annihilation (annihilate.io - Head Developer)
