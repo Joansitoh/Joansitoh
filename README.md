@@ -4,10 +4,14 @@ Hello! I'm Joansiitoh, I've been programming for about 5 years on Minecraft and 
 
 I am comfortable with the following langauges:
 
-- Java and Spigot (CraftBukkit and NMS) since 4 years
+- Java and Spigot (CraftBukkit and NMS) since 5 years (2017)
 - MariaDB, MySQL, MongoDB, Redis
-- Php with Html.
 - Python
+
+And my secondary languages:
+- Php
+- Html
+- JavaScript
 
 
 ## Check out our team website, [vainillatech.club](https://vainillatech.club "vainillatech.club")!
