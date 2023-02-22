@@ -40,12 +40,11 @@ And my secondary languages:
 - ⚔ SkillWars Network - A Minecraft PvP Network based on Annihilation (skillwars.us - Head Developer)
 - ⚔ Kirei - A Minecraft PvP network based on MegaWalls (kirei.gg - Head Developer)
 - ⚔ Ascend Network - A Minecraft PvP and Survival Network (ascendmc.us - Head Developer)
-
 ---
 
 ### 🥂 Actually projects working:
 - Kirei Network (kirei.gg)
 - AscendMC Network (ascendmc.us)
 - Python server automatitation
-
+- Administration of Debian server security (ufw, iptables, dba)
 ---
