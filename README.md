@@ -47,7 +47,7 @@ Hello! I'm Joansiitoh, I've been programming for about 5 years on Minecraft and 
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 <p align="center">
-  <img src="https://github.com/Joansitoh/Joansitoh/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/Joansitoh/Joansitoh/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 ---
