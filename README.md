@@ -33,9 +33,7 @@ Hello! I'm Joansiitoh, I've been programming for about 5 years on Minecraft and 
 
 
 
-<h2 align="center">
-  MY GITHUB STATS<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
+<h2 align="center">MY GITHUB STATS</h2>
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Joansitoh&show_icons=true&hide=contribs&cache_seconds=86400&theme=chartreuse-dark" height="175px">
@@ -43,17 +41,15 @@ Hello! I'm Joansiitoh, I've been programming for about 5 years on Minecraft and 
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Joansitoh&theme=github-green-purple&border=9F9FA3">
 </p>
 
-<h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h2>
+<h2 align="center">My Contribution Graph</h2>
 <p align="center">
   <img src="https://github.com/Joansitoh/Joansitoh/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
----
 <h2 align="center">
 CONTACT ME ON THESE LINKS 🐦
 </h2>
+<br>
 
 <p align="center">
 <a href="mailto: joansitohprah@gmail.com">
