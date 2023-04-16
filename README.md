@@ -68,13 +68,13 @@ Hello! I'm Joansiitoh, I've been programming for about 5 years on Minecraft and 
 - ⚔ Annihilate - A Minecraft PvP Network based on Annihilation (annihilate.io - Head Developer)
 - ⚔ ColdNetwork - A Minecraft PvP Network based on Practice (coldnetwork.us - Developer)
 - ⚔ SkillWars Network - A Minecraft PvP Network based on Annihilation (skillwars.us - Head Developer)
-- ⚔ Kirei - A Minecraft PvP network based on MegaWalls (kirei.gg - Head Developer)
+- ⚔ Kirei - A Minecraft PvP network based on MegaWalls (kirei.gg - Head Developer - Abandoned)
 - ⚔ Ascend Network - A Minecraft PvP and Survival Network (ascendmc.us - Head Developer)
+- ⚔ UFW Manager GUI - A GUI interface for manage UFW rules in Linux machine
 ---
 
 ### 🥂 Actually projects working:
-- Kirei Network (kirei.gg)
 - AscendMC Network (ascendmc.us)
 - Python server automatitation
-- Administration of Debian server security (ufw, iptables, dba)
+- Edge profile manager, for administrate edge profiles like Google Profile Manager.
 ---
