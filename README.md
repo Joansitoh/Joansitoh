@@ -12,9 +12,11 @@ Hello! I'm Joansiitoh, I've been programming for about 5 years on Minecraft and 
 <img src="https://img.shields.io/badge/Java ⬆-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python ⬆-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spigot ⬆-55C57A?style=for-the-badge&logo=Minecraft&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS ⬇-239120?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5 ⬇-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript ⬇-black?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/CSS ⬆-239120?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5 ⬆-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript ⬆-black?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/-ReactJs ⬆-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    
 <br>
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -31,6 +33,11 @@ Hello! I'm Joansiitoh, I've been programming for about 5 years on Minecraft and 
 <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
 </p>
 
+<h3 align="center">Published content</h3>
+<p align="center">
+    Transform any Youtube video into MP3 audio or Lyrics!
+    https://youtube.bitanetic.com
+</p>
 
 <br>
 <h2 align="center">My Github Stats</h2>
@@ -64,6 +71,7 @@ Hello! I'm Joansiitoh, I've been programming for about 5 years on Minecraft and 
 ---
 
 ### 📚 History worked projects:
+
 - ⚔ SnowCrash Network - A Minecraft PvP Network based on Annihilation (snowcrash.us - Head Developer)
 - ⚔ Annihilate - A Minecraft PvP Network based on Annihilation (annihilate.io - Head Developer)
 - ⚔ ColdNetwork - A Minecraft PvP Network based on Practice (coldnetwork.us - Developer)
@@ -72,10 +80,15 @@ Hello! I'm Joansiitoh, I've been programming for about 5 years on Minecraft and 
 - ⚔ Ascend Network - A Minecraft PvP and Survival Network (ascendmc.us - Head Developer - Unpaid)
 - ⚔ UFW Manager GUI - A GUI interface for manage UFW rules in Linux machine
 - ⚔ Edge Profile Manager - A GUI interface similar to Google Chrome profile selector.
+
 ---
 
 ### 🥂 Actually projects working:
+
+- Bitanetic IT Solutions
+- Bitanetic Youtube Converter
 - Python server automatitation
 - Creation of a customized big minecraft java plugin.
 - Flutter application for alert people of newest CVEs found.
+
 ---
