@@ -36,7 +36,7 @@ Hello! I'm Joansiitoh, I've been programming for about 5 years on Minecraft and 
 <h3 align="center">Published content</h3>
 <p align="center">
     Transform any Youtube video into MP3 audio or Lyrics!
-    https://youtube.bitanetic.com
+    https://bitanetic.com
 </p>
 
 <br>
@@ -50,7 +50,7 @@ Hello! I'm Joansiitoh, I've been programming for about 5 years on Minecraft and 
 
 <h2 align="center">My Contribution Graph</h2>
 <p align="center">
-  <img src="https://github.com/Joansitoh/Joansitoh/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/Joansitoh/Joansitoh/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
 
 <h2 align="center">Contact me on these links 🐦</h2>
