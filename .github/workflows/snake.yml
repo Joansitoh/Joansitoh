@@ -26,29 +26,10 @@ jobs:
       - uses: actions/checkout@v3
 
     # Genera la serpiente  
-      - uses: Platane/snk@master
-        id: snake-gif
+      - uses: Platane/snk@v3
         with:
-          github_user_name: Joansitoh
-          # estas siguientes 2 líneas generan los archivos en una rama llamada "output". Esto evita que la rama principal se llene de archivos.
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-     # muestra el estado de la compilación. Facilita la depuración (si hay algún problema).
-      - run: git status
-
-      # Realiza los cambios
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          # la rama de salida que mencionamos anteriormente
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: ${{ github.repository_owner }
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
