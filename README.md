@@ -35,8 +35,7 @@ Hello! I'm Joansiitoh, I've been programming for about 5 years on Minecraft and 
 
 <h3 align="center">Published content</h3>
 <p align="center">
-    Transform any Youtube video into MP3 audio or Lyrics!
-    https://bitanetic.com
+    https://bitanetic.es
 </p>
 
 <br>
@@ -57,7 +56,7 @@ Hello! I'm Joansiitoh, I've been programming for about 5 years on Minecraft and 
 <br>
 
 <p align="center">
-<a href="mailto: joansitohprah@gmail.com">
+<a href="mailto: joan.programas@gmail.com">
  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in//">
@@ -72,15 +71,20 @@ Hello! I'm Joansiitoh, I've been programming for about 5 years on Minecraft and 
 
 ### 📚 History worked projects:
 
+#### Game projects:
 - ⚔ SnowCrash Network - A Minecraft PvP Network based on Annihilation (snowcrash.us - Head Developer)
 - ⚔ Annihilate - A Minecraft PvP Network based on Annihilation (annihilate.io - Head Developer)
 - ⚔ ColdNetwork - A Minecraft PvP Network based on Practice (coldnetwork.us - Developer)
 - ⚔ SkillWars Network - A Minecraft PvP Network based on Annihilation (skillwars.us - Head Developer)
 - ⚔ Kirei - A Minecraft PvP network based on MegaWalls (kirei.gg - Head Developer - Abandoned)
 - ⚔ Ascend Network - A Minecraft PvP and Survival Network (ascendmc.us - Head Developer - Unpaid)
-- ⚔ UFW Manager GUI - A GUI interface for manage UFW rules in Linux machine
-- ⚔ Edge Profile Manager - A GUI interface similar to Google Chrome profile selector.
 
+#### Other projects:
+
+- ⚔ UFW Manager GUI - A GUI interface for manage UFW rules in Linux machine
+- ⚔ Developer Portafolio - A simple portafolio web to add your projects.
+- ⚔ Edge Profile Manager - A GUI interface similar to Google Chrome profile selector.
+  
 ---
 
 ### 🥂 Actually projects working:
@@ -89,6 +93,6 @@ Hello! I'm Joansiitoh, I've been programming for about 5 years on Minecraft and 
 - Bitanetic Youtube Converter
 - Python server automatitation
 - Creation of a customized big minecraft java plugin.
-- Flutter application for alert people of newest CVEs found.
+- Amazon price alert notifier.
 
 ---
