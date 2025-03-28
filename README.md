@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Hello! I'm Joansiitoh, I've been programming for about 5 years on Minecraft and other projects for Linux!!
+Hello! I'm Joansiitoh, I've been programming for about 8 years on Minecraft and other projects for the comunity!
 </p>
 
 <h2 align="center">Technology Stack</h2>
