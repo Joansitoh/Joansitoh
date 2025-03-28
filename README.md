@@ -84,15 +84,15 @@ Hello! I'm Joansiitoh, I've been programming for about 5 years on Minecraft and 
 - ⚔ UFW Manager GUI - A GUI interface for manage UFW rules in Linux machine
 - ⚔ Developer Portafolio - A simple portafolio web to add your projects.
 - ⚔ Edge Profile Manager - A GUI interface similar to Google Chrome profile selector.
+- ⚔ Decibel Limiter - Chrome extension to limit decibels in tabs.
+- ⚔ CVForge - Create your professional CV with sections.
+- ⚔ AmazonChecker - Web app to control prices of amazon products and alert when price changes.
   
 ---
 
 ### 🥂 Actually projects working:
 
 - Bitanetic IT Solutions
-- Bitanetic Youtube Converter
-- Python server automatitation
-- Creation of a customized big minecraft java plugin.
-- Amazon price alert notifier.
+- Personal work
 
 ---
