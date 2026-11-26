@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Joansitoh/Joansitoh/blob/main/header.png" alt="Joansiitoh" />
+  <img src="https://raw.githubusercontent.com/Joansitoh/Joansitoh/main/header.png" alt="Joansiitoh" />
 </p>
 
 <p align="center">
@@ -95,9 +95,9 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-    <img src="https://camo.githubusercontent.com/b1845178a647578a2c1eabf0fbd3c302c25d0179871bb08d00de0a21e390e602/687474703a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d4a6f616e7369746f68267468656d653d6769746875622d677265656e2d707572706c6526626f726465723d394639464133" height="195 alt="Contribution graph" />
+    <img src="https://streak-stats.demolab.com/?user=Joansitoh&amp;theme=github-green-purple&amp;border=9F9FA3" height="195" alt="GitHub streak" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joansitoh&amp;layout=compact&amp;langs_count=8&amp;hide_border=false&amp;theme=chartreuse-dark" width="414" height="195" alt="Top programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joansitoh&amp;layout=compact&amp;langs_count=8&amp;hide_border=false&amp;theme=chartreuse-dark" width="414" height="195" alt="Top programming languages" />
 </p>
 
 <p align="center">
@@ -105,7 +105,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Joansitoh/Joansitoh/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/Joansitoh/Joansitoh/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </p>
 
 <br />
